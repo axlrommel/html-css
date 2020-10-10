@@ -1,0 +1,23 @@
+{
+  "name": "html-css",
+  "version": "1.0.0",
+  "description": "coursera class",
+  "main": "index.js",
+  "scripts": {
+    "serve": "browser-sync start --server --directory --files \"*\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axlrommel/html-css.git"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "axlrommel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axlrommel/html-css/issues"
+  },
+  "homepage": "https://github.com/axlrommel/html-css#readme"
+}
