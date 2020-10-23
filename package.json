@@ -4,7 +4,7 @@
   "description": "coursera class",
   "main": "index.js",
   "scripts": {
-    "serve": "browser-sync start --server --directory --files \"*/**\""
+    "start": "browser-sync start --server --directory --files \"*/**\""
   },
   "repository": {
     "type": "git",
